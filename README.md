@@ -24,6 +24,6 @@ Fully automated deployment of a static website to Amazon S3 bucket. After pushin
 
 ## Demo
 
-Site Demo - http://awscommands.s3-website-ap-southeast-1.amazonaws.com/index.html
-Video Demo - https://youtu.be/r2Ri2g4YDfg
+- Site Demo - http://awscommands.s3-website-ap-southeast-1.amazonaws.com/index.html
+- Video Demo - https://youtu.be/r2Ri2g4YDfg
 
