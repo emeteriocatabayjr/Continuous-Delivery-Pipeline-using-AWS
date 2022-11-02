@@ -1,5 +1,5 @@
 
-# Continuous Delivery Pipeline using AWS
+# Continuous Deployment Pipeline using AWS
 
 Fully automated deployment of a static website to Amazon S3 bucket. After pushing the changes to my repository using my Visual Studio Code IDE, the Amazon S3 bucket will update automatically along with my website
 
